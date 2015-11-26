@@ -1,10 +1,6 @@
-FINAL TEST!!!
-This is another TEST #2
-This is a JIRA-GITHUB test!!
-Commit #2
-Commit #3
+This is a commit Github TEST!!!
 
->>>>>>> master
+
 {
   "directory": "bower_components",
   "analytics": false
