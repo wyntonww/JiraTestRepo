@@ -1,9 +1,4 @@
-This is my Branch!!
-A PR TEST
-This is a JIRA-GITHUB test!!
-Commit #2
-Commit #3
-
+This is a TEST b/w JIRA and GITHUB
 {
   "directory": "bower_components",
   "analytics": false
