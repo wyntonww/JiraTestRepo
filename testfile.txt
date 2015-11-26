@@ -1,7 +1,10 @@
-Test PR 123
-A TEST PR!!!
-test 123
-This is a TEST b/w JIRA and GITHUB
+
+This is another TEST #2
+This is a JIRA-GITHUB test!!
+Commit #2
+Commit #3
+
+>>>>>>> master
 {
   "directory": "bower_components",
   "analytics": false
