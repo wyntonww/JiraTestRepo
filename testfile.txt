@@ -1,0 +1,8 @@
+This is a JIRA-GITHUB test!!
+Commit #2
+Commit #3
+
+{
+  "directory": "bower_components",
+  "analytics": false
+}
